@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakob\\Desktop\\Othello\\Othello\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83AFF893-38C0-4B22-8789-DD8450D83D26}|Othello\\Othello.csproj|c:\\users\\jakob\\desktop\\othello\\othello\\othello\\gameview\\setupgamedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83AFF893-38C0-4B22-8789-DD8450D83D26}|Othello\\Othello.csproj|solutionrelative:othello\\gameview\\setupgamedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AFF893-38C0-4B22-8789-DD8450D83D26}|Othello\\Othello.csproj|c:\\users\\jakob\\desktop\\othello\\othello\\othello\\gameview\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83AFF893-38C0-4B22-8789-DD8450D83D26}|Othello\\Othello.csproj|solutionrelative:othello\\gameview\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AFF893-38C0-4B22-8789-DD8450D83D26}|Othello\\Othello.csproj|c:\\users\\jakob\\desktop\\othello\\othello\\othello\\gameview\\drawtextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83AFF893-38C0-4B22-8789-DD8450D83D26}|Othello\\Othello.csproj|solutionrelative:othello\\gameview\\drawtextbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AFF893-38C0-4B22-8789-DD8450D83D26}|Othello\\Othello.csproj|c:\\users\\jakob\\desktop\\othello\\othello\\othello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83AFF893-38C0-4B22-8789-DD8450D83D26}|Othello\\Othello.csproj|solutionrelative:othello\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetupGameDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Jakob\\Desktop\\Othello\\Othello\\Othello\\GameView\\SetupGameDialog.xaml",
+              "RelativeDocumentMoniker": "Othello\\GameView\\SetupGameDialog.xaml",
+              "ToolTip": "C:\\Users\\Jakob\\Desktop\\Othello\\Othello\\Othello\\GameView\\SetupGameDialog.xaml",
+              "RelativeToolTip": "Othello\\GameView\\SetupGameDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-07T10:15:58.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jakob\\Desktop\\Othello\\Othello\\Othello\\GameView\\GameWindow.xaml",
+              "RelativeDocumentMoniker": "Othello\\GameView\\GameWindow.xaml",
+              "ToolTip": "C:\\Users\\Jakob\\Desktop\\Othello\\Othello\\Othello\\GameView\\GameWindow.xaml",
+              "RelativeToolTip": "Othello\\GameView\\GameWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-07T10:15:56.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawTextBox.xaml",
+              "DocumentMoniker": "C:\\Users\\Jakob\\Desktop\\Othello\\Othello\\Othello\\GameView\\DrawTextBox.xaml",
+              "RelativeDocumentMoniker": "Othello\\GameView\\DrawTextBox.xaml",
+              "ToolTip": "C:\\Users\\Jakob\\Desktop\\Othello\\Othello\\Othello\\GameView\\DrawTextBox.xaml",
+              "RelativeToolTip": "Othello\\GameView\\DrawTextBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-07T10:15:54.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Jakob\\Desktop\\Othello\\Othello\\Othello\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Othello\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Jakob\\Desktop\\Othello\\Othello\\Othello\\MainWindow.xaml",
+              "RelativeToolTip": "Othello\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-07T10:15:20.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

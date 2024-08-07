@@ -1,0 +1,596 @@
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\georg\OneDrive - Jonkoping University\Objektorienterad programutveckling\Othello\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\Jakob\Desktop\Othello\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\Jakob\Desktop\Othello\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\Jakob\Desktop\Othello\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\Jakob\Desktop\Othello\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\Jakob\Desktop\Othello\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\Jakob\Desktop\Othello\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\Jakob\Desktop\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\Jakob\Desktop\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\Jakob\Desktop\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\Jakob\Desktop\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\Jakob\Desktop\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\David\Desktop\C#\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\David\Desktop\C#\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\David\Desktop\C#\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\David\Desktop\C#\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\David\Desktop\C#\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\David\Desktop\C#\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_D5\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPBlack.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPWhite.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TitlePvsP.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPColor.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPName.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsP.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsPButton.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPColor.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPName.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsPButton.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPBlack.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPWhite.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TitlePvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G3\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPColor.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPName.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsPButton.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPBlack.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPWhite.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TitlePvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPColor.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPName.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsPButton.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPBlack.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPWhite.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsP.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TitlePvsP.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCColor.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G6\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPColor.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPName.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCColor.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsPButton.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPBlack.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPWhite.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsP.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TitlePvsP.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPColor.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPName.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCColor.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsPButton.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPBlack.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPWhite.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TitlePvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPColor.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPName.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCColor.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsPButton.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPBlack.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPWhite.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TitlePvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G8\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPColor.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\LabelPvsPName.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCColor.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsPButton.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPBlack.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\RadioPvsPWhite.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TitlePvsP.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSComputer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\PlayerVSPayer.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DialogWPF.g.cs
+C:\Users\sage22qb\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DialogWPF.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.g.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G9\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DrawTextBox.g.cs
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.g.cs
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\WinnerTextBox.g.cs
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DrawTextBox.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.baml
+C:\Users\Jakob\Desktop\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\WinnerTextBox.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DrawTextBox.g.cs
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.g.cs
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\WinnerTextBox.g.cs
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DrawTextBox.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\WinnerTextBox.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\Jakob\OneDrive - Jonkoping University\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DrawTextBox.g.cs
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.g.cs
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\WinnerTextBox.g.cs
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DrawTextBox.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\WinnerTextBox.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\georg\Downloads\27-12-23\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.exe
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.deps.json
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.runtimeconfig.json
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.dll
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\bin\Debug\net6.0-windows\Othello.pdb
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\CountPieces.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\GameBoardButtons.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\MarginLayoutStyles.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PCNR.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PiecesStyles.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\PvsCName.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Styles\TextBoxPvsC.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DrawTextBox.g.cs
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.g.cs
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.g.cs
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\WinnerTextBox.g.cs
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.cache
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello_MarkupCompile.lref
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\App.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\DrawTextBox.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\GameWindow.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\SetupGameDialog.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\GameView\WinnerTextBox.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.g.resources
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfoInputs.cache
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.AssemblyInfo.cs
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.csproj.CoreCompileInputs.cache
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.dll
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\refint\Othello.dll
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.pdb
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\Othello.genruntimeconfig.cache
+C:\Users\Jakob\Desktop\New folder (2)\Den klara versionen\OthelloK\Othello\obj\Debug\net6.0-windows\ref\Othello.dll

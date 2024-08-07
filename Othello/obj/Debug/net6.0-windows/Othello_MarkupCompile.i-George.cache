@@ -1,0 +1,20 @@
+﻿Othello
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\obj\Debug\net6.0-windows\
+Othello
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\georg\OneDrive - Jonkoping University\OOP LABS\Othello_G7\OthelloK\Othello\App.xaml
+191586412783
+
+18-2045087784
+194726069201
+GameView\GameWindow.xaml;GameView\PlayerVSComputer.xaml;GameView\PlayerVSPayer.xaml;MainWindow.xaml;Styles\CountPieces.xaml;Styles\GameBoardButtons.xaml;Styles\LabelPvsPColor.xaml;Styles\LabelPvsPName.xaml;Styles\MarginLayoutStyles.xaml;Styles\PCNR.xaml;Styles\PiecesStyles.xaml;Styles\PvsCColor.xaml;Styles\PvsCName.xaml;Styles\PvsPButton.xaml;Styles\RadioPvsPBlack.xaml;Styles\RadioPvsPWhite.xaml;Styles\TextBoxPvsC.xaml;Styles\TextBoxPvsP.xaml;Styles\TitlePvsP.xaml;
+
+True
+

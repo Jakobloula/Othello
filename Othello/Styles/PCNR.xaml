@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Style TargetType="Label" x:Key="BCount">
+        <Setter Property="FontSize" Value="50"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="Canvas.Top" Value="6"/>
+        <Setter Property="Canvas.Left" Value="300"/>
+
+    </Style>
+
+    <Style x:Key="WCount" TargetType="Label">
+        <Setter Property="FontSize" Value="50"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="Canvas.Top" Value="6"/>
+        <Setter Property="Canvas.Right" Value="125"/>
+
+    </Style>
+
+</ResourceDictionary>
